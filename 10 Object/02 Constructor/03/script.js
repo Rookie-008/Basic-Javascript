@@ -26,5 +26,5 @@ function Store(employee, consumer, menu, cash) {
 	}
 }
 
-var employee1 = new Store('Rookie', ['consumer1', 'consumer2'], [], 0);
-var employee2 = new Store('Kid', ['consumer3', 'consumer4'], [], 0);
+var employee1 = new Store('name_A', ['consumer1', 'consumer2'], [], 0);
+var employee2 = new Store('name_B', ['consumer3', 'consumer4'], [], 0);
