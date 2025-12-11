@@ -1,4 +1,4 @@
-let a = "abc";                // String
+let a = "Something Never Changes, They Just Become Different";                // String
 let b = new String("Hello");  // Object
 
 console.log(a);
