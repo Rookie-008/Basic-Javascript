@@ -1,5 +1,5 @@
 var string1 = "Hello Hello";
-var string2 = "ABCDE"
+var string2 = "ABCDE";
 
 var a = string1.includes(string2);
 
