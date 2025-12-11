@@ -1,5 +1,5 @@
-var a = "Hello"
-var b = "ABCDE"
+var a = "Life is Simple, It's Just Not Easy"
+var b = "It Hurts Because It Matters"
 
 var string = a.concat(" ", b);
 
