@@ -4,6 +4,6 @@ var number = 10;
 document.write (string);
 document.write (number);
 
-string = " ABC"
+string = " Life is Simple, It's Just Not Easy"
 
 document.write (string);
