@@ -1,9 +1,9 @@
 // JSON Object
-var data = {
+var employee = {
 	name : "Kentaro",
 	point : 100,
 	address : "Garden Street"
 };
 
 // Read Object
-console.log(JSON.stringify(data, ["name", "address"]));
+console.log(JSON.stringify(employee, ["name", "address"]));
