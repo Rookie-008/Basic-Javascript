@@ -1,19 +1,19 @@
 // Simple JSON
-var data = {
+var employee = {
 	name : "Kentaro",
 	address : "Garden Street",
 	point : [15,25,35,45,55]
 };
 
 // Simple Object to JSON
-console.log(JSON.stringify(data));
+console.log(JSON.stringify(employee));
 
 // Loop Access Array Values
-let pointData = "";
+let pointEmployee = "";
 
-for (let a in data.point){
-	pointData += data.point[a] + ", ";
+for (let a in employee.point){
+	pointEmployee += employee.point[a] + ", ";
 }
 
-console.log(JSON.stringify(data.point));
-console.log(JSON.stringify(data.point[3]));
+console.log(JSON.stringify(employee.point));
+console.log(JSON.stringify(employee.point[3]));
