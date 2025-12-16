@@ -1,6 +1,6 @@
 // Simple JSON
 var employee = {
-	name : "Kentaro",
+	name : "Bruce Lee",
 	address : "Garden Street",
 	point : [15,25,35,45,55]
 };
