@@ -1,6 +1,6 @@
 // JSON Object
 var data = {
-	name : "Nathan",
+	name : "Kentaro",
 	point : 100,
 	address : "Garden Street"
 };
